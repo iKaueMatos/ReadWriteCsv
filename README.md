@@ -1,7 +1,7 @@
 ## Script Read and write Csv
 
 
-<img src="https://imgs.search.brave.com/NUCo5OTheE4dMxv7VH5KwIG3gNB1mblaXF7cA3x9nPg/rs:fit:550:300:1/g:ce/aHR0cHM6Ly93d3cu/cGFuYXlpb3Rpc2dl/b3JnaW91Lm5ldC93/cC1jb250ZW50L3Vw/bG9hZHMvMjAxOC8w/OS94bHMtY3N2LWZp/bmFsLnBuZw" width="700px" height="500px" alt="csv">
+<img src="https://imgs.search.brave.com/NUCo5OTheE4dMxv7VH5KwIG3gNB1mblaXF7cA3x9nPg/rs:fit:550:300:1/g:ce/aHR0cHM6Ly93d3cu/cGFuYXlpb3Rpc2dl/b3JnaW91Lm5ldC93/cC1jb250ZW50L3Vw/bG9hZHMvMjAxOC8w/OS94bHMtY3N2LWZp/bmFsLnBuZw" width="1000px" height="500px" alt="csv">
 
 > Esse pequeno script tem como base gerar relatorios e também ler esse relatorios no formato de array no proprio codigo abrindo a possibilidade para manipulalos
 
